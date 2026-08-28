@@ -9,6 +9,9 @@ programa
 		
     leia(a1, b1, c1)
 
+    escreva("Digite a2, b2, c2 da segunda função: ")
+		leia(a2, b2, c2)
+
 
   }
 }
